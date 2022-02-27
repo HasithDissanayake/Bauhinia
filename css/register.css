@@ -12,7 +12,7 @@
 
 body {
     background-color: #022420;
-    background-image: linear-gradient(#b3f1ee, #022420);
+    background-image: linear-gradient(#faf2f3, #ec0625);
 }
 
 #table {
@@ -41,7 +41,7 @@ body {
     margin: auto;
     margin-top: 10px;
     width: 80%;
-    background-color: #E8FFFF;
+    background-color: #faecee;
     border-radius: 20px;
     box-shadow: 2px 2px 4px black;
     animation: mymove2 forwards;
@@ -113,7 +113,7 @@ body {
 
 .button {
     width: 220px;
-    background-color: #2c524e;
+    background-color: #dc3545;
     border: none;
     color: black;
     padding: 10px 67px;
@@ -130,7 +130,7 @@ body {
 
 .button:hover {
     width: 220px;
-    background-color: #41AEA9;
+    background-color: #d6737d;
     border: none;
     color: black;
     padding: 10px 67px;
@@ -254,5 +254,5 @@ input[type=checkbox] {
 }
 
 .home:hover {
-    color: #41AEA9;
+    color: #ff0000;
 }
